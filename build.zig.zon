@@ -10,12 +10,12 @@
     },
     .dependencies = .{
         .expat = .{
-            .url = "git+https://github.com/allyourcodebase/libexpat.git#2.7.1",
-            .hash = "libexpat-2.7.1-y_akI1M7AAA1huPJVegH4dosRVA-lMRgzMuX9vC7aB1s",
+            .url = "git+https://github.com/allyourcodebase/libexpat.git#2.7.1-1",
+.hash = "libexpat-2.7.1-1-y_akI-w7AABhqRN54g--MNNIR-zA1X2WZ36ZPriY84sb"
         },
         .libzip = .{
-            .url = "git+https://github.com/allyourcodebase/libzip.git#1.11.2",
-            .hash = "libzip-1.11.2-WX_L8Ck4AADFFAXJ5QvIrrZ9osNgIQJWPgih_6rg8K97",
+            .url = "git+https://github.com/sashka/libzip.git#fd3051f719aee93872a55f554b0b3fc5270aab21",
+.hash = "libzip-1.11.2-WX_L8EQ4AAC9YSQ1dhuNALqIuIPgZNkBdjQ0Ki7wC_W3",
         },
     },
     .fingerprint = 0x402b2efec66e6e02,
